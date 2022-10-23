@@ -18,6 +18,6 @@ public class StoneEdge extends PhysicalMove {
 
     @Override
     protected String describe() {
-        return "применяет Crunch";
+        return "применяет StoneEdge";
     }
 }
