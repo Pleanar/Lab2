@@ -1,6 +1,5 @@
-package Pokemons;
+package pokemons;
 
-import attacks.*;
 import ru.ifmo.se.pokemon.*;
 
 public class Clefable extends Pokemon {

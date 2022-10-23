@@ -1,5 +1,4 @@
-package Pokemons;
-import attacks.*;
+package pokemons;
 import ru.ifmo.se.pokemon.*;
 
 public class Makuhita extends Pokemon{
