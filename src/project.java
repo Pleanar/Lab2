@@ -20,6 +20,6 @@ public class project {
         b.addFoe(p3);
         b.addFoe(p4);
 
-        b.go();
+        b.go(); // мясцо
     }
 }
