@@ -9,6 +9,14 @@ public class StoneEdge extends PhysicalMove {
     }
 
     @Override
+    protected void applySelfEffects(Pokemon pokemon)
+    {
+        Effect effect = new Effect().turns(0).stat(Stat.SPEED, 1);
+        pokemon.addEffect(effect);
+        super.applySelfEffects(pokemon);
+    }
+
+    @Override
     protected String describe() {
         return "применяет Crunch";
     }

@@ -9,6 +9,14 @@ public class ShockWave extends SpecialMove {
     }
 
     @Override
+    protected void applySelfEffects(Pokemon pokemon)
+    {
+        Effect effect = new Effect().attack(1.0).turns(0);
+        pokemon.addEffect(effect);
+        super.applySelfEffects(pokemon);
+    }
+
+    @Override
     protected String describe() {
         return "применяет ShockWave";
     }
