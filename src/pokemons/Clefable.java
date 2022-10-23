@@ -1,6 +1,11 @@
 package pokemons;
 
-import ru.ifmo.se.pokemon.*;
+import attacks.specialAttacks.Moonblast;
+import attacks.specialAttacks.ShadowBall;
+import attacks.statusAttacks.Swagger;
+
+import ru.ifmo.se.pokemon.Pokemon;
+import ru.ifmo.se.pokemon.Type;
 
 public class Clefable extends Pokemon {
     public Clefable(String name, int lvl)

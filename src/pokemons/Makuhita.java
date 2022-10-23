@@ -1,5 +1,11 @@
 package pokemons;
-import ru.ifmo.se.pokemon.*;
+
+import attacks.physicalAttacks.WakeUpSlap;
+import attacks.specialAttacks.FocusBlast;
+import attacks.statusAttacks.WorkUp;
+
+import ru.ifmo.se.pokemon.Pokemon;
+import ru.ifmo.se.pokemon.Type;
 
 public class Makuhita extends Pokemon{
     public Makuhita(String name, int lvl)

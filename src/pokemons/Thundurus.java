@@ -4,6 +4,7 @@ import attacks.physicalAttacks.Crunch;
 import attacks.specialAttacks.DarkPulse;
 import attacks.specialAttacks.ShockWave;
 import attacks.statusAttacks.Agility;
+
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

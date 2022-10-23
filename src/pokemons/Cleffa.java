@@ -1,6 +1,10 @@
 package pokemons;
 
-import ru.ifmo.se.pokemon.*;
+import attacks.specialAttacks.ShadowBall;
+import attacks.statusAttacks.Swagger;
+
+import ru.ifmo.se.pokemon.Pokemon;
+import ru.ifmo.se.pokemon.Type;
 
 public class Cleffa extends Pokemon{
     public Cleffa(String name, int lvl)
