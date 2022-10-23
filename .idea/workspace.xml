@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02704b2d-72d0-4533-a277-5b1235e098fa" name="Changes" comment="First commit">
+    <list default="true" id="02704b2d-72d0-4533-a277-5b1235e098fa" name="Changes" comment="2 commit">
+      <change afterPath="$PROJECT_DIR$/src/attacks/physicalAttacks/Crunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/attacks/physicalAttacks/StoneEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/attacks/specialAttacks/DarkPulse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/attacks/specialAttacks/FocusBlast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/attacks/specialAttacks/Moonblast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/attacks/specialAttacks/ShadowBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/attacks/specialAttacks/ShockWave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/attacks/statusAttacks/Agility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/attacks/statusAttacks/Swagger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/attacks/statusAttacks/WorkUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +48,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "last_opened_file_path": "C:/Users/Даниил Аракчеев/IdeaProjects/Lab2/libs/Pokemon.jar",
     "project.structure.last.edited": "Libraries",
@@ -71,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666531913443</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2 commit">
+      <created>1666533687209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666533687209</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2 commit">
+      <created>1666533723898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666533723898</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 commit" />
   </component>
 </project>
